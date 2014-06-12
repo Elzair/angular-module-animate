@@ -2,7 +2,6 @@ angular-module-animate
 ======================
 
 Animation AngularJS module suitable for bundling with [Browserify](http://browserify.org/) or [Webpack](http://webpack.github.io/)
-]
 
 Installation
 ------------
